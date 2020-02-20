@@ -1,0 +1,14 @@
+ul li
+{
+    list-style: none;
+    padding: 25px;
+}
+ul li a
+{
+    text-decoration: none;
+}
+ul
+{   
+    width:30%;
+    height:100%;
+}
